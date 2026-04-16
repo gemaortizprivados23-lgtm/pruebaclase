@@ -93,45 +93,8 @@ Envía los cambios al repositorio en línea.
 
 ---
 
-## 🧪 Ejercicio práctico
-
-Realiza los siguientes cambios en este archivo:
-
-### ✔ Actividad 1
-
-Agrega tu nombre:
-
-```md
-Autor: Tu nombre
-```
-
----
-
-### ✔ Actividad 2
-
-Agrega una lista:
-
-```md
-## 📚 Aprendizajes
-
-- Uso de Git
-- Uso de GitHub
-- Manejo de commits
-```
-
----
 
 ### ✔ Actividad 3
-
-Agrega código:
-
-```python
-print("Hola mundo")
-```
-
----
-
-### ✔ Actividad 4
 
 Corrige o modifica un texto existente
 
